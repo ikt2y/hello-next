@@ -13,6 +13,8 @@
     "react-markdown": "^3.3.0"
   },
   "scripts": {
+    "build": "next build",
+    "start": "next start -p 8000",
     "dev": "nodemon server.js"
   }
 }
